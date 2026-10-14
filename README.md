@@ -6,7 +6,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python (Pygame)</b>
-  - [Alien Invasion](https://github.com/py-teddy/Alien_Invasion) — Space Invaders–style shooter built while learning Pygame
+  - [Alien Invasion](https://github.com/py-teddy/alien_invasion) — Space Invaders–style shooter built while learning Pygame
 
 <h2>🌱 Currently Learning:</h2>
 
